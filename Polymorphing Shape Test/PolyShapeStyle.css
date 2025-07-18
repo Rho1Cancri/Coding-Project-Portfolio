@@ -1,0 +1,18 @@
+body {
+	background: #C0C0C0FF;
+}
+div {
+	width: max-content;
+	margin: auto;
+}
+h1 {
+	text-align: center;
+	font-family: arial;
+}
+canvas {
+	border: 4px solid #808080FF;
+	width: 800px;
+	height: 600px;
+	background: #FFFFFFFF;
+	cursor: none;
+}
