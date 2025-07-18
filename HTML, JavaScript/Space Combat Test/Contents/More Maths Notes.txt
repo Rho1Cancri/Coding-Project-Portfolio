@@ -1,0 +1,69 @@
+== Two linear equations
+dx = x(B) - x(A)
+dy = y(B) - y(A)
+line a: dy (y - y(C)) = -dx (x - x(C))
+line b: dx (y - y(A)) = dy (x - x(A))
+
+== Solving for x position of intersection
+
+line a: y = -dx (x - x(C)) / dy + y(C)
+line b: y = dy (x - x(A)) / dx + y(A)
+
+-dx (x - x(C)) / dy + y(C) = dy (x - x(A)) / dx + y(A)
+
+y(C) - y(A) = dy (x - x(A)) / dx + dx (x - x(C)) / dy
+
+(y(C) - y(A)) dx dy = dy² (x - x(A)) + dx² (x - x(C))
+
+(y(C) - y(A)) dx dy = dy² x - dy² x(A) + dx² x - dx² x(C)
+
+(y(C) - y(A)) dx dy + dy² x(A) + dx² x(C) = dy² x + dx² x
+
+((y(C) - y(A)) dx dy + dy² x(A) + dx² x(C)) / (dy² + dx²) = x
+
+== Solving for y position of intersection
+line a: dy (y - y(C)) / -dx + x(C) = x
+line b: dx (y - y(A)) / dy + x(A) = x
+
+dy (y - y(C)) / -dx + x(C) = dx (y - y(A)) / dy + x(A)
+
+x(C) - x(A) = dx (y - y(A)) / dy + dy (y - y(C)) / dx
+
+(x(C) - x(A)) dx dy = dx² (y - y(A)) + dy² (y - y(C))
+
+(x(C) - x(A)) dx dy = dx² y - dx² y(A) + dy² y - dy² y(C)
+
+(x(C) - x(A)) dx dy + dx² y(A) + dy² y(C) = dx² y + dy² y
+
+((x(C) - x(A)) dx dy + dx² y(A) + dy² y(C)) / (dx² + dy²) = y
+
+== Finding intersections between circle and line a using point D ==
+
+D is intersection of two lines above
+
+t = (Radius(c)² - Distance(C, D)²)^0.5
+
+E: D - (cos(atan2(dy, dx)), sin(atan2(dy, dx))) t
+
+F: D + (cos(atan2(dy, dx)), sin(atan2(dy, dx))) t
+
+== Circle sector cutoff for HUD ==
+Circle c: (x - 400)² / 390² + (y - 400)² / 390² = 1
+
+(y - 400)² / 390² = 1 - (x - 400)² / 390²
+
+(y - 400) / 390 = ± (1 - (x - 400)² / 390²) ^ 0.5
+
+y = ± 390 (1 - (x - 400)² / 390²) ^ 0.5 + 400
+
+Line f: y = 590
+
+590 = ± 390 (1 - (x - 400)² / 390²) ^ 0.5 + 400
+
+190 = ± 390 (1 - (x - 400)² / 390²) ^ 0.5
+
+190² / 390² = 1 - (x - 400)² / 390²
+
+190² = 390² - (x - 400)²
+
+190² = 390² - (x - 400)²

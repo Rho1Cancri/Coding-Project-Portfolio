@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg837"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Radar Panel.svg"
+   inkscape:export-filename="C:\Users\Osakwe\Documents\Coding Projects\Space Combat (Test)\Contents\Radar Panel.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs831" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="60"
+     inkscape:cy="60"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:lockguides="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid839"
+       empspacing="10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata834">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-200.53332)">
+    <circle
+       cy="260.53333"
+       cx="60"
+       id="ellipse1186"
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="52.000004" />
+    <path
+       id="path1542"
+       style="fill:none;stroke:#084008;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="M 100,220.53332 H 0 m 90,-10 H 0 m 90,100 H 30 m 70,-10 H 20 m 90,-10 H 10 m 110,-10 H 0 m 120,-10 H 0 m 120,-30 H 0 m 110,-10 H 0 m 120,30 H 0 m 120,-10 H 0 m 20,-50 v 100 m -10,-100 v 90 m 100,-60 v 60 m -10,-70 v 80 m -10,-90 v 100 m -10,-110 v 120 m -10,-120 v 120 m -30,-120 v 120 m -10,-120 v 110 m 30,-110 v 120 m -10,-120 v 120"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="fill:#b5bfcb;stroke:#4f5e71;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M -2 -2 L -2 87 L 31 119 L 89 119 L 119 89 L 119 31 L 87 -2 L -2 -2 z M 60 9 A 51.000004 51.000004 0 0 1 111 60 A 51.000004 51.000004 0 0 1 60 111 A 51.000004 51.000004 0 0 1 9 60 A 51.000004 51.000004 0 0 1 60 9 z "
+       transform="translate(0,200.53332)"
+       id="path829" />
+  </g>
+</svg>

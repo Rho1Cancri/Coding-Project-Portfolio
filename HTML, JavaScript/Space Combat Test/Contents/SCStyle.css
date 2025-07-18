@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "Conthrax";
+	src: url("conthrax-sb.ttf");
+}
+body {
+	background-color: #DDDDDD;
+}
+div {
+	width: min-content;
+	margin: auto;
+}
+canvas {
+	background-color: #FFFFFF;
+	border: 4px solid #888888;
+	width: 800px;
+	height: 600px;
+	margin: 0px;
+	cursor: none;
+}
+h1 {
+	font-family: Conthrax;
+	text-align: center;
+}
+.sprite_img {
+	display: none;
+}

@@ -1,0 +1,14 @@
+=== Lawful Good: Federation ===
+Humans and other species who are united for collective defence of liberty.
+
+=== Chaotic Good: Milquans ===
+Tall, semi-reptilian humanoids who prefer bliss over serious business.
+
+=== True Neutral: Asteroids ===
+Floating rocks that don't do much but pose as hazards for unwary spaceships.
+
+=== Lawful Evil: Empire ===
+Humans who prefer to exert absolute power, but in an orderly and rational manner.
+
+=== Chaotic Evil: Parasites ===
+They are a semi-intelligent organism that infects any other species to propagate itself.
