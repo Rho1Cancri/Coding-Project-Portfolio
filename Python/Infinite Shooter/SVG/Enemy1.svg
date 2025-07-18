@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\Osakwe\Documents\Education\Holmesglen\2020 Semester 1\Automate Processes\Assessment 2\Enemy1.png"
+   sodipodi:docname="Enemy1.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 64 64.000002"
+   height="64"
+   width="64">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="46.218175"
+     inkscape:cx="30.274801"
+     inkscape:zoom="7.9999996"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="8"
+       id="grid833"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:#354561;fill-opacity:1;stroke:#242f42;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 37,16 V 11 L 35,7 h -6 l -2,4 v 5 z"
+       id="path1145" />
+    <path
+       style="fill:#848484;fill-opacity:1;stroke:#515151;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 32,59 5,20 V 4 l 11,8 H 48 L 59,4 v 16 z"
+       id="path1129"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#848484;fill-opacity:1;stroke:#515151;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 29,59 24,47 V 27 l 3,-15 h 10 l 3,15 v 20 l -5,12 z"
+       id="path1131"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#610000;fill-opacity:1;stroke:#540000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8,19 v -5 l 13,16 v 8 z"
+       id="path1133" />
+    <path
+       id="path1135"
+       d="M 56,19 V 14 L 43,30 v 8 z"
+       style="fill:#610000;fill-opacity:1;stroke:#540000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#b40000;fill-opacity:1;stroke:#790000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 30,52 h 4 l -1,-4 h -2 z m 6,-2 -1,-4 1,-2 2,2 z m -7,-4 -1,-2 -2,2 2,4 z"
+       id="path1137"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="fill:#af6a00;fill-opacity:1;stroke:#8b5400;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23,15 H 13 l 8,10 z"
+       id="path1141"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1143"
+       d="M 41,15 H 51 L 43,25 Z"
+       style="fill:#af6a00;fill-opacity:1;stroke:#8b5400;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

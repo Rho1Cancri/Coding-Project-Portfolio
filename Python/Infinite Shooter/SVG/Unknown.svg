@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\Osakwe\Documents\Education\Holmesglen\2020 Semester 1\Automate Processes\Assessment 2\Unknown.png"
+   sodipodi:docname="Unknown.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg852"
+   version="1.1"
+   viewBox="0 0 64 64"
+   height="64"
+   width="64">
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="36.774648"
+     inkscape:cx="24.503571"
+     inkscape:zoom="8"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="8"
+       id="grid854"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="0"
+       x="0"
+       height="32"
+       width="32"
+       id="rect856"
+       style="fill:#bfbfbf;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0.5" />
+    <rect
+       style="fill:#bfbfbf;fill-opacity:0.5;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect856-4"
+       width="32"
+       height="32"
+       x="32"
+       y="32" />
+    <rect
+       style="fill:#404040;fill-opacity:0.5;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect856-6"
+       width="32"
+       height="32"
+       x="32"
+       y="0" />
+    <rect
+       y="32"
+       x="0"
+       height="32"
+       width="32"
+       id="rect856-6-5"
+       style="fill:#404040;fill-opacity:0.5;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="m 30.222656,39.509765 q -0.01953,-0.703125 -0.01953,-1.054687 0,-2.070313 0.585937,-3.574219 0.429688,-1.132813 1.386719,-2.285156 0.703125,-0.839844 2.519531,-2.441407 1.835938,-1.621092 2.382813,-2.578125 0.546875,-0.957031 0.546875,-2.089843 0,-2.050782 -1.601563,-3.59375 -1.601562,-1.5625 -3.925781,-1.5625 -2.246094,0 -3.75,1.40625 -1.503906,1.40625 -1.972656,4.394531 l -3.613282,-0.429688 q 0.488281,-4.003906 2.890625,-6.132812 2.421875,-2.128906 6.386718,-2.128906 4.199219,0 6.699219,2.285156 2.5,2.285156 2.5,5.527344 0,1.875 -0.878906,3.457031 -0.878906,1.582031 -3.4375,3.847656 -1.71875,1.523438 -2.246094,2.246094 -0.527344,0.722656 -0.78125,1.660156 -0.253906,0.9375 -0.292969,3.046875 z m -0.214844,7.050781 V 42.55664 h 4.003907 v 4.003906 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;fill:#ff0000;fill-opacity:1;stroke:none"
+       id="path898" />
+  </g>
+</svg>
